@@ -1,4 +1,4 @@
-FROM learnitguide/busapp:base
+FROM Manovan61/busapp:base
 
 COPY busapp-webapp/ /usr/src/busapp-webapp/
 
